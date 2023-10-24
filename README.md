@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="speechSynthesis.jpg" />
+  <img alt="Imagem da Aplicação" src="animationscroll.jpg" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ Animação do menu com o scroll do mouse, usando javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/S-ntese-de-Fala-JS.git
+  ❯ git clone https://github.com/Talison-Miguel/Animacao-do-Menu-Com-o-Scroll.git
 ```
 
 ---
